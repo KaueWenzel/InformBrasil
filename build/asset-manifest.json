@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.abb3dd58.css",
-    "main.js": "/static/js/main.7e0506ee.js",
-    "static/js/453.55aabff5.chunk.js": "/static/js/453.55aabff5.chunk.js",
-    "static/media/background-image.jpg": "/static/media/background-image.b6d2ee1b3486bda14f0a.jpg",
-    "index.html": "/index.html",
-    "main.abb3dd58.css.map": "/static/css/main.abb3dd58.css.map",
-    "main.7e0506ee.js.map": "/static/js/main.7e0506ee.js.map",
-    "453.55aabff5.chunk.js.map": "/static/js/453.55aabff5.chunk.js.map"
+    "main.css": "/informBrasil/static/css/main.869a4f83.css",
+    "main.js": "/informBrasil/static/js/main.0a69754e.js",
+    "static/js/453.55aabff5.chunk.js": "/informBrasil/static/js/453.55aabff5.chunk.js",
+    "static/media/background-image.jpg": "/informBrasil/static/media/background-image.b6d2ee1b3486bda14f0a.jpg",
+    "index.html": "/informBrasil/index.html",
+    "main.869a4f83.css.map": "/informBrasil/static/css/main.869a4f83.css.map",
+    "main.0a69754e.js.map": "/informBrasil/static/js/main.0a69754e.js.map",
+    "453.55aabff5.chunk.js.map": "/informBrasil/static/js/453.55aabff5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abb3dd58.css",
-    "static/js/main.7e0506ee.js"
+    "static/css/main.869a4f83.css",
+    "static/js/main.0a69754e.js"
   ]
 }
