@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dengue-awareness/static/css/main.062fa67c.css",
-    "main.js": "/dengue-awareness/static/js/main.3e4eb9a5.js",
-    "static/js/453.55aabff5.chunk.js": "/dengue-awareness/static/js/453.55aabff5.chunk.js",
-    "static/media/background-image.jpg": "/dengue-awareness/static/media/background-image.b6d2ee1b3486bda14f0a.jpg",
-    "index.html": "/dengue-awareness/index.html",
-    "main.062fa67c.css.map": "/dengue-awareness/static/css/main.062fa67c.css.map",
-    "main.3e4eb9a5.js.map": "/dengue-awareness/static/js/main.3e4eb9a5.js.map",
-    "453.55aabff5.chunk.js.map": "/dengue-awareness/static/js/453.55aabff5.chunk.js.map"
+    "main.css": "/InformBrasil/static/css/main.cf1fd475.css",
+    "main.js": "/InformBrasil/static/js/main.eff0ecbe.js",
+    "static/js/453.55aabff5.chunk.js": "/InformBrasil/static/js/453.55aabff5.chunk.js",
+    "static/media/background-image.jpg": "/InformBrasil/static/media/background-image.b6d2ee1b3486bda14f0a.jpg",
+    "index.html": "/InformBrasil/index.html",
+    "main.cf1fd475.css.map": "/InformBrasil/static/css/main.cf1fd475.css.map",
+    "main.eff0ecbe.js.map": "/InformBrasil/static/js/main.eff0ecbe.js.map",
+    "453.55aabff5.chunk.js.map": "/InformBrasil/static/js/453.55aabff5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.062fa67c.css",
-    "static/js/main.3e4eb9a5.js"
+    "static/css/main.cf1fd475.css",
+    "static/js/main.eff0ecbe.js"
   ]
 }
