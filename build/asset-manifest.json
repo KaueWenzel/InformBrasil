@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/informBrasil/static/css/main.3f588e91.css",
+    "main.js": "/informBrasil/static/js/main.f7038e4f.js",
+    "static/js/453.55aabff5.chunk.js": "/informBrasil/static/js/453.55aabff5.chunk.js",
+    "static/media/background-image.jpg": "/informBrasil/static/media/background-image.b6d2ee1b3486bda14f0a.jpg",
+    "index.html": "/informBrasil/index.html",
+    "main.3f588e91.css.map": "/informBrasil/static/css/main.3f588e91.css.map",
+    "main.f7038e4f.js.map": "/informBrasil/static/js/main.f7038e4f.js.map",
+    "453.55aabff5.chunk.js.map": "/informBrasil/static/js/453.55aabff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f588e91.css",
+    "static/js/main.f7038e4f.js"
+  ]
+}
