@@ -1,8 +1,8 @@
 {
-  "name": "Informe-Brasil",
+  "name": "dengue-awareness",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kauewenzel.github.io/InformBrasil",
+  "homepage": "https://johnDoe.github.io/dengue-awareness",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
