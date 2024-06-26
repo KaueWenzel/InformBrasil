@@ -446,7 +446,7 @@ function App() {
         <img className="image" src="./Dengue-combate.jpg" alt="Image4" />
       </div>
       <div className="footer">
-        <p>Fonte: Dados Reais obtidas por Everton.s de acordo com o site: https://www.gov.br/saude</p>
+        <p>Fonte: Dados Reais obtidos E.s de acordo com o site: https://www.gov.br/saude</p>
         <h3>Todos os direitos reservados Kaue e Thiago 2024 </h3>
       </div>
     </div>
